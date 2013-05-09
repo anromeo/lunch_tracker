@@ -1,0 +1,4 @@
+require 'spec_helper'
+
+feature 'Health Tracker' do
+	scenario
